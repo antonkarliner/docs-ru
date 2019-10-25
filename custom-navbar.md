@@ -21,7 +21,7 @@
 
 ## Markdown
 
-Кроме того, вы можете создать настраиваемый файл навигации, установив `loadNavbar` в **true** и создав `_navbar.md`, подробнее [loadNavbar конфигурация](ru-ru/configuration.md#loadnavbar).
+Кроме того, вы можете создать настраиваемый файл навигации, установив `loadNavbar` в **true** и создав `_navbar.md`, подробнее [loadNavbar конфигурация](/configuration.md#loadnavbar).
 
 ```html
 <!-- index.html -->
@@ -70,7 +70,7 @@
 
 отображается как
 
-![Nesting navbar](../_images/nested-navbar.png 'Nesting navbar')
+![Nesting navbar](https://github.com/docsifyjs/docsify/blob/develop/docs/_images/nested-navbar.png 'Nesting navbar')
 
 ## Объединение navbars с плагином emoji
 
