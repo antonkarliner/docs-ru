@@ -155,7 +155,7 @@ window.$docsify = {
 * Type: `Boolean|String|String[]|Object`
 * Default: `false`
 
-Активирует функцию [обложки](ru-ru/cover.md). Если значение true, оно будет загружаться из `_coverpage.md`.
+Активирует функцию [обложки](/cover.md). Если значение true, оно будет загружаться из `_coverpage.md`.
 
 ```js
 window.$docsify = {
@@ -210,7 +210,7 @@ window.$docsify = {
 
 * Type: `Function`
 
-Смотрите [Markdown конфигурацию](ru-ru/markdown.md).
+Смотрите [Markdown конфигурацию](/markdown.md).
 
 ```js
 window.$docsify = {
